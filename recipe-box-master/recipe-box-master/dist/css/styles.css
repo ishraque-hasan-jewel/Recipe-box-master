@@ -1,0 +1,17 @@
+button {
+  margin-top: 8px; }
+
+.btn-add {
+  position: relative;
+  border-radius: 50%;
+  top: 10px; }
+
+.panel-heading {
+  cursor: pointer; }
+
+.btn-holder {
+  overflow: hidden;
+  padding: 8px; }
+
+.fa-input {
+  font-family: FontAwesome, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
